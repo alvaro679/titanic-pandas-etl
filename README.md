@@ -5,7 +5,7 @@ Pipeline de ingeniería de datos modular y vectorizado.
 ## 🚀 Demo Automática
 Ejecuta el código en la nube con un clic:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/titanic-pandas-etl/blob/main/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alvaro679/titanic-pandas-etl/blob/main/titanic-pandas-etl.ipynb#scrollTo=e57522d2)
 
 ## 📂 Resultados
 El dataset procesado se genera automáticamente en `data/processed/titanic_clean.csv`.
